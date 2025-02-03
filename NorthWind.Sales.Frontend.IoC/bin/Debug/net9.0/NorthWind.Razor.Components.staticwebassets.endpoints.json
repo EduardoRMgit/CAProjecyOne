@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "NorthWind.Razor.Components.bm9mxibayx.styles.css",
+      "AssetFile": "NorthWind.Razor.Components.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001210653753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm9mxibayx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Razor.Components.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Razor.Components.bm9mxibayx.styles.css",
+      "AssetFile": "NorthWind.Razor.Components.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm9mxibayx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Razor.Components.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Razor.Components.bm9mxibayx.styles.css.gz",
+      "AssetFile": "NorthWind.Razor.Components.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm9mxibayx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA="
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Razor.Components.styles.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Razor.Components.styles.css",
+      "AssetFile": "NorthWind.Razor.Components.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001210653753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Razor.Components.styles.css",
+      "AssetFile": "NorthWind.Razor.Components.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Razor.Components.styles.css.gz",
+      "AssetFile": "NorthWind.Razor.Components.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA="
+        }
+      ]
+    }
+  ]
+}

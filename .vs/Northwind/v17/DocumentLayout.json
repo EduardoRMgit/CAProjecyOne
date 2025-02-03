@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\introCA\\Northwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|c:\\introca\\northwind\\northwind.sales.backend.datacontext.efcore\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|c:\\introca\\northwind\\northwind.sales.backend.datacontext.efcore\\datacontexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\datacontexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|c:\\introca\\northwind\\northwind.sales.backend.datacontext.efcore\\datacontexts\\northwindsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\datacontexts\\northwindsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|c:\\introca\\northwind\\northwind.sales.backend.datacontext.efcore\\datasources\\northwindsalescommandsdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\datasources\\northwindsalescommandsdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|c:\\introca\\northwind\\northwind.sales.backend.datacontext.efcore\\northwind.sales.backend.datacontext.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\northwind.sales.backend.datacontext.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|c:\\introca\\northwind\\northwind.sales.backend.repositories\\repositories.cs\\commandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|solutionrelative:northwind.sales.backend.repositories\\repositories.cs\\commandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|c:\\introca\\northwind\\northwind.sales.backend.repositories\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|solutionrelative:northwind.sales.backend.repositories\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|c:\\introca\\northwind\\northwind.sales.backend.repositories\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|solutionrelative:northwind.sales.backend.repositories\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|c:\\introca\\northwind\\northwind.sales.backend.repositories\\northwind.sales.backend.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AA90404-FB94-47B2-82FB-4EB6D19102FD}|Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj|solutionrelative:northwind.sales.backend.repositories\\northwind.sales.backend.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\introca\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\introca\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\introca\\northwind\\northwind.sales.entities\\valueobjects\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\valueobjects\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9D417E-2EBA-4B8F-B43A-A5C21A02B8A3}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|c:\\introca\\northwind\\northwind.sales.backend.usecases\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9D417E-2EBA-4B8F-B43A-A5C21A02B8A3}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9D417E-2EBA-4B8F-B43A-A5C21A02B8A3}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|c:\\introca\\northwind\\northwind.sales.backend.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9D417E-2EBA-4B8F-B43A-A5C21A02B8A3}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D023C3-260C-4C6F-8DB4-97F78392EA12}|NorthWind.Sales.Frontend.WebApiGateways\\NorthWind.Sales.Frontend.WebApiGateways.csproj|c:\\introca\\northwind\\northwind.sales.frontend.webapigateways\\northwind.sales.frontend.webapigateways.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6D023C3-260C-4C6F-8DB4-97F78392EA12}|NorthWind.Sales.Frontend.WebApiGateways\\NorthWind.Sales.Frontend.WebApiGateways.csproj|solutionrelative:northwind.sales.frontend.webapigateways\\northwind.sales.frontend.webapigateways.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 984,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\DependencyContainer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:36:02.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthWindContext.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindContext.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindContext.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindContext.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:36:00.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthWindSalesContext.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindSalesContext.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindSalesContext.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindSalesContext.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\DataContexts\\NorthWindSalesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:35:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthWindSalesCommandsDataSource.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DataSources\\NorthWindSalesCommandsDataSource.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\DataSources\\NorthWindSalesCommandsDataSource.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\DataSources\\NorthWindSalesCommandsDataSource.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\DataSources\\NorthWindSalesCommandsDataSource.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:35:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthWind.Sales.Backend.DataContext.EFCore",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T03:35:47.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.Repositories\\GlobalUsings.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\GlobalUsings.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.Repositories\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:35:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.Repositories\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\DependencyContainer.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.Repositories\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:35:26.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandsRepository.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\Repositories.cs\\CommandsRepository.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.Repositories\\Repositories.cs\\CommandsRepository.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\Repositories.cs\\CommandsRepository.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.Repositories\\Repositories.cs\\CommandsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:05:12.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Northwind.Sales.Backend.Repositories",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
+              "RelativeToolTip": "Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T03:05:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NorthWind.Sales.Frontend.WebApiGateways",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.WebApiGateways\\NorthWind.Sales.Frontend.WebApiGateways.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Frontend.WebApiGateways\\NorthWind.Sales.Frontend.WebApiGateways.csproj",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.WebApiGateways\\NorthWind.Sales.Frontend.WebApiGateways.csproj",
+              "RelativeToolTip": "NorthWind.Sales.Frontend.WebApiGateways\\NorthWind.Sales.Frontend.WebApiGateways.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T02:38:41.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:07:16.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:07:17.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\ValueObjects\\Endpoints.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Entities\\ValueObjects\\Endpoints.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\ValueObjects\\Endpoints.cs",
+              "RelativeToolTip": "Northwind.Sales.Entities\\ValueObjects\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:51:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
+              "RelativeToolTip": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:38:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderDetailDto.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "RelativeToolTip": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:38:22.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1099,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

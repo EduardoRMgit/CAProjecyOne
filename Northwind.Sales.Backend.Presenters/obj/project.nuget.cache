@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8JYkUIeQwyw=",
+  "success": true,
+  "projectFilePath": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Presenters\\Northwind.Sales.Backend.Presenters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

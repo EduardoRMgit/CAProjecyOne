@@ -1,0 +1,1077 @@
+{
+  "Version": 1,
+  "Hash": "uJr0ahDmj/GpHkmyGqDhgXwZRiHIQ2vdrir+5lN0nTY=",
+  "Source": "NorthWind.Sales.Frontend.Views",
+  "BasePath": "_content/NorthWind.Sales.Frontend.Views",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\NorthWind.Razor.Components.csproj",
+      "Version": 2,
+      "Source": "NorthWind.Razor.Components",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NorthWind.Razor.Components\\wwwroot",
+      "Source": "NorthWind.Razor.Components",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\wwwroot\\",
+      "BasePath": "_content/NorthWind.Razor.Components",
+      "Pattern": "**"
+    },
+    {
+      "Name": "NorthWind.Sales.Frontend.Views\\wwwroot",
+      "Source": "NorthWind.Sales.Frontend.Views",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\wwwroot\\",
+      "BasePath": "_content/NorthWind.Sales.Frontend.Views",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\y9r3vcxbwh-bm9mxibayx.gz",
+      "SourceId": "NorthWind.Razor.Components",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/NorthWind.Razor.Components",
+      "RelativePath": "NorthWind.Razor.Components#[.{fingerprint=bm9mxibayx}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Razor.Components.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p095m4kiw1",
+      "Integrity": "Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\y9r3vcxbwh-bm9mxibayx.gz"
+    },
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Razor.Components.bundle.scp.css",
+      "SourceId": "NorthWind.Razor.Components",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/NorthWind.Razor.Components",
+      "RelativePath": "NorthWind.Razor.Components#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "bm9mxibayx",
+      "Integrity": "zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Razor.Components.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\40ryesrdee-0i4c9xvnai.gz",
+      "SourceId": "NorthWind.Sales.Frontend.Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/NorthWind.Sales.Frontend.Views",
+      "RelativePath": "NorthWind.Sales.Frontend.Views#[.{fingerprint=0i4c9xvnai}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\NorthWind.Sales.Frontend.Views.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zvzpsc7zjk",
+      "Integrity": "7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\NorthWind.Sales.Frontend.Views.styles.css"
+    },
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\hewwfkvuqa-06qhvw35ob.gz",
+      "SourceId": "NorthWind.Sales.Frontend.Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/NorthWind.Sales.Frontend.Views",
+      "RelativePath": "NorthWind.Sales.Frontend.Views#[.{fingerprint=06qhvw35ob}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Sales.Frontend.Views.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7zgc5tmbgi",
+      "Integrity": "87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Sales.Frontend.Views.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\NorthWind.Sales.Frontend.Views.styles.css",
+      "SourceId": "NorthWind.Sales.Frontend.Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/NorthWind.Sales.Frontend.Views",
+      "RelativePath": "NorthWind.Sales.Frontend.Views#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "0i4c9xvnai",
+      "Integrity": "yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\NorthWind.Sales.Frontend.Views.styles.css"
+    },
+    {
+      "Identity": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Sales.Frontend.Views.bundle.scp.css",
+      "SourceId": "NorthWind.Sales.Frontend.Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/NorthWind.Sales.Frontend.Views",
+      "RelativePath": "NorthWind.Sales.Frontend.Views#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "06qhvw35ob",
+      "Integrity": "SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Sales.Frontend.Views.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\y9r3vcxbwh-bm9mxibayx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001210653753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm9mxibayx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Razor.Components.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm9mxibayx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css.gz",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\y9r3vcxbwh-bm9mxibayx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm9mxibayx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bundle.scp.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\y9r3vcxbwh-bm9mxibayx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001210653753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        }
+      ]
+    },
+    {
+      "Route": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Razor.Components.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaw46VSdk0XZcmopT6ijFypv/8dDc+hOP0qDcThYw8I="
+        }
+      ]
+    },
+    {
+      "Route": "_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bundle.scp.css.gz",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Razor.Components\\obj\\Debug\\net9.0\\compressed\\y9r3vcxbwh-bm9mxibayx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:00:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fx0s+VgwaQHfgOI+6qG+kOR6YBRAd6OL31EQnOa57mA="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.06qhvw35ob.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\hewwfkvuqa-06qhvw35ob.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004651162791"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "06qhvw35ob"
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Sales.Frontend.Views.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.06qhvw35ob.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Sales.Frontend.Views.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "06qhvw35ob"
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Sales.Frontend.Views.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.06qhvw35ob.bundle.scp.css.gz",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\hewwfkvuqa-06qhvw35ob.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "06qhvw35ob"
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Sales.Frontend.Views.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.0i4c9xvnai.styles.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\40ryesrdee-0i4c9xvnai.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003846153846"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i4c9xvnai"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA="
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Sales.Frontend.Views.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.0i4c9xvnai.styles.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\NorthWind.Sales.Frontend.Views.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i4c9xvnai"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA="
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Sales.Frontend.Views.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.0i4c9xvnai.styles.css.gz",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\40ryesrdee-0i4c9xvnai.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i4c9xvnai"
+        },
+        {
+          "Name": "label",
+          "Value": "NorthWind.Sales.Frontend.Views.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\hewwfkvuqa-06qhvw35ob.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004651162791"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.bundle.scp.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NorthWind.Sales.Frontend.Views.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPJrSyLJKWaNqTEBe/9DfXtrH7726jXjxeNYn6UJr5s="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.bundle.scp.css.gz",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\hewwfkvuqa-06qhvw35ob.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-87n9UXjgeKlbsKeqVyXFT6KpN8SQ1Nu3KF+bxISoHNo="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.styles.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\40ryesrdee-0i4c9xvnai.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003846153846"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.styles.css",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\scopedcss\\bundle\\NorthWind.Sales.Frontend.Views.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/NorthWind.Razor.Components/NorthWind.Razor.Components.bm9mxibayx.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yB4L53VFJzJIFRzBjGWKiYMr/51lc3PSshj3FrrRlUA="
+        }
+      ]
+    },
+    {
+      "Route": "NorthWind.Sales.Frontend.Views.styles.css.gz",
+      "AssetFile": "C:\\introCA\\Northwind\\NorthWind.Sales.Frontend.Views\\obj\\Debug\\net9.0\\compressed\\40ryesrdee-0i4c9xvnai.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/3+CXVVevB+UJcVYTlvY1Ri59XzdQE7Fr7Fq15UpQE="
+        }
+      ]
+    }
+  ]
+}

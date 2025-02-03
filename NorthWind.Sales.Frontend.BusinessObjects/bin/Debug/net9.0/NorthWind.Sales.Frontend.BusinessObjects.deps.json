@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NorthWind.Sales.Frontend.BusinessObjects/1.0.0": {
+        "dependencies": {
+          "Northwind.Sales.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.Sales.Frontend.BusinessObjects.dll": {}
+        }
+      },
+      "Northwind.Sales.Entities/1.0.0": {
+        "runtime": {
+          "Northwind.Sales.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.Sales.Frontend.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Northwind.Sales.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

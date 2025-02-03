@@ -1,0 +1,17 @@
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.deps.json
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\Northwind.Sales.Entities.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.csproj.AssemblyReference.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.AssemblyInfoInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.AssemblyInfo.cs
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWin.83EB7073.Up2Date
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\refint\NorthWind.Sales.Frontend.View.Models.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\ref\NorthWind.Sales.Frontend.View.Models.dll

@@ -1,0 +1,103 @@
+/* _content/NorthWind.Razor.Components/Exceptions/ExceptionDisplay.razor.rz.scp.css */
+.main[b-sfnskmm930] {
+    overflow-wrap:anywhere
+}
+/* _content/NorthWind.Razor.Components/Layouts/NavMenuLayout.razor.rz.scp.css */
+.page[b-mw26ppievd] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-mw26ppievd] {
+    flex: 1;
+}
+
+.content[b-mw26ppievd] {
+    padding-top: 1.1rem;
+}
+
+.sidebar[b-mw26ppievd] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+
+.top-row[b-mw26ppievd] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-mw26ppievd]  a, .top-row[b-mw26ppievd]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+        .top-row[b-mw26ppievd]  a:hover, .top-row[b-mw26ppievd]  .btn-link:hover {
+            text-decoration: underline;
+        }
+
+        .top-row[b-mw26ppievd]  a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+@media (min-width: 641px) {
+    .page[b-mw26ppievd] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-mw26ppievd] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+}
+/* _content/NorthWind.Razor.Components/NavBars/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-v2ulwz1vpr] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-v2ulwz1vpr] {
+        display: none;
+    }
+
+    .collapse[b-v2ulwz1vpr] {
+        display: block;
+    }
+
+    .nav-scrollable[b-v2ulwz1vpr] {
+        height: calc(100vh - 3.5rem);
+        overflow-y: auto;
+    }
+}
+/* _content/NorthWind.Razor.Components/NavBars/NavMenuItem.razor.rz.scp.css */
+.nav-item[b-07u23zhwdk] {
+    font-size: 0.9rem;
+    padding-top: 0.3rem;
+}
+
+    .nav-item[b-07u23zhwdk]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+        .nav-item[b-07u23zhwdk]  a.active {
+            background-color: rgba(255,255,255,0.37);
+            color: white;
+        }
+
+        .nav-item[b-07u23zhwdk]  a:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+        }

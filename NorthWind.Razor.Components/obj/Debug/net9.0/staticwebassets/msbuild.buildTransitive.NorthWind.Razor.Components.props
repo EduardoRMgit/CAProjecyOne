@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NorthWind.Razor.Components.props" />
+</Project>

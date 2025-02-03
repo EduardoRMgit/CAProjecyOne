@@ -1,0 +1,17 @@
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.deps.json
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\Northwind.Sales.Entities.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.csproj.AssemblyReference.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.AssemblyInfoInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.AssemblyInfo.cs
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWin.FAE2B56E.Up2Date
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\refint\NorthWind.Sales.Frontend.WebApiGateways.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\ref\NorthWind.Sales.Frontend.WebApiGateways.dll

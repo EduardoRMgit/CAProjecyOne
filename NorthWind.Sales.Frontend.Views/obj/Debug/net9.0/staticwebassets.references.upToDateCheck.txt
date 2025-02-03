@@ -1,0 +1,4 @@
+C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\staticwebassets.build.json
+C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\staticwebassets.build.json
+C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\staticwebassets.build.json
+C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\staticwebassets.build.json

@@ -1,0 +1,18 @@
+.navbar-toggler[b-v2ulwz1vpr] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-v2ulwz1vpr] {
+        display: none;
+    }
+
+    .collapse[b-v2ulwz1vpr] {
+        display: block;
+    }
+
+    .nav-scrollable[b-v2ulwz1vpr] {
+        height: calc(100vh - 3.5rem);
+        overflow-y: auto;
+    }
+}

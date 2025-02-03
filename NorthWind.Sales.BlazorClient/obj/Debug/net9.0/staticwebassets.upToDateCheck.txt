@@ -1,0 +1,7 @@
+C:\introCA\Northwind\NorthWind.Sales.BlazorClient\wwwroot\index.html
+C:\introCA\Northwind\NorthWind.Sales.BlazorClient\wwwroot\css\app.css
+C:\introCA\Northwind\NorthWind.Sales.BlazorClient\wwwroot\appsettings.json
+wwwroot\appsettings.json
+wwwroot\css\app.css
+wwwroot\icon-192.png
+wwwroot\index.html

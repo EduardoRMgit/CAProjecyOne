@@ -1,0 +1,17 @@
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\Northwind.Sales.Backend.Repositories.deps.json
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\Northwind.Sales.Backend.Repositories.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\Northwind.Sales.Backend.Repositories.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\Northwind.Sales.Entities.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.csproj.AssemblyReference.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.AssemblyInfoInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.AssemblyInfo.cs
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwin.B5CEAD00.Up2Date
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\refint\Northwind.Sales.Backend.Repositories.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\ref\Northwind.Sales.Backend.Repositories.dll

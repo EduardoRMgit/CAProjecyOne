@@ -1,0 +1,17 @@
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\NorthWind.Sales.Backend.Controllers.deps.json
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\NorthWind.Sales.Backend.Controllers.dll
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\NorthWind.Sales.Backend.Controllers.pdb
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\Northwind.Sales.Entities.dll
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.csproj.AssemblyReference.cache
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.AssemblyInfoInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.AssemblyInfo.cs
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWin.F1357F35.Up2Date
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.dll
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\refint\NorthWind.Sales.Backend.Controllers.dll
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\NorthWind.Sales.Backend.Controllers.pdb
+C:\introCA\Northwind\NorthWind.Sales.Backend.Controllers\obj\Debug\net9.0\ref\NorthWind.Sales.Backend.Controllers.dll

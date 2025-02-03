@@ -1,0 +1,15 @@
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.deps.json
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\bin\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\bin\Debug\net9.0\Northwind.Sales.Entities.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.csproj.AssemblyReference.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.AssemblyInfoInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.AssemblyInfo.cs
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWin.A9FAEA72.Up2Date
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\refint\NorthWind.Sales.Frontend.BusinessObjects.dll
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Frontend.BusinessObjects.pdb
+C:\introCA\Northwind\NorthWind.Sales.Frontend.BusinessObjects\obj\Debug\net9.0\ref\NorthWind.Sales.Frontend.BusinessObjects.dll

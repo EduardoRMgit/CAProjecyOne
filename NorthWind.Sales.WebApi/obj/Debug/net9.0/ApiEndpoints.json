@@ -1,0 +1,26 @@
+[
+  {
+    "ContainingType": "NorthWind.Sales.WebApi.EndpointsContainer\u002B\u003C\u003Ec",
+    "Method": "\u003CMapSalesEndpoints\u003Eb__0_0",
+    "RelativePath": "CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "Northwind.Sales.Entities.Dtos.CreateOrder.CreateOrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

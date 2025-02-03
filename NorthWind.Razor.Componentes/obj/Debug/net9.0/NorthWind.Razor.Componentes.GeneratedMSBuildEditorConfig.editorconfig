@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = NorthWind.Razor.Componentes
+build_property.RootNamespace = NorthWind.Razor.Componentes
+build_property.ProjectDir = C:\introCA\Northwind\NorthWind.Razor.Componentes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\introCA\Northwind\NorthWind.Razor.Componentes
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/introCA/Northwind/NorthWind.Razor.Componentes/Layouts/NavMenuLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xOYXZNZW51TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/introCA/Northwind/NorthWind.Razor.Componentes/NavBars/NavMenu.Razor.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2QmFyc1xOYXZNZW51LlJhem9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/introCA/Northwind/NorthWind.Razor.Componentes/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/introCA/Northwind/NorthWind.Razor.Componentes/Exceptions/ExceptionDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = RXhjZXB0aW9uc1xFeGNlcHRpb25EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-86gsyjtjl8
+
+[C:/introCA/Northwind/NorthWind.Razor.Componentes/NavBars/NavMenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2QmFyc1xOYXZNZW51SXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-dyz58709ko

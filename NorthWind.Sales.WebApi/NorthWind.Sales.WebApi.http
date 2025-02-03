@@ -1,0 +1,21 @@
+@NorthWind.Sales.WebApi_HostAddress = http://localhost:5113
+
+POST {{NorthWind.Sales.WebApi_HostAddress}}/CreateOrder/
+Content-Type: application/json
+
+{
+    "customerId": "ALFKI",
+    "shipAddress": "31 ORIENTE 810",
+    "shipCity": "Puebla",
+    "shipCountry": "México",
+    "shipPostalCode": "72500",
+    "OrderDetailDtos": [
+        {
+            "productId": 1,
+            "unitPrice": 17,
+            "quantity": 5
+        }
+    ]
+}
+
+###

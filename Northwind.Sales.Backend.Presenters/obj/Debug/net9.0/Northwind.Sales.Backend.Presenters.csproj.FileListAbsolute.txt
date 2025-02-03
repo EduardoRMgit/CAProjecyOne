@@ -1,0 +1,17 @@
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\Northwind.Sales.Backend.Presenters.deps.json
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\Northwind.Sales.Backend.Presenters.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\Northwind.Sales.Backend.Presenters.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\Northwind.Sales.Entities.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.AssemblyInfo.cs
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwin.C64E68E2.Up2Date
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\refint\Northwind.Sales.Backend.Presenters.dll
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.pdb
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\ref\Northwind.Sales.Backend.Presenters.dll
