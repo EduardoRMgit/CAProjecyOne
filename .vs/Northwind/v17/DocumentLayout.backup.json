@@ -3,10 +3,16 @@
   "WorkspaceRootPath": "C:\\introCA\\Northwind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PruebaDB/True/SqlTable/dbo.OrderDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|c:\\introca\\northwind\\northwind.sales.backend.datacontext.efcore\\northwind.sales.backend.datacontext.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB43DE1-8B38-4288-BA20-732FE25D67B3}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\northwind.sales.backend.datacontext.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PruebaDB/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{799FB0E2-4487-4682-A16A-A5FB82AC02A7}|NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj|c:\\introca\\northwind\\northwind.sales.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799FB0E2-4487-4682-A16A-A5FB82AC02A7}|NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj|solutionrelative:northwind.sales.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\introca\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA1EAD2-A4CA-4694-8EF6-FF3EE233D78E}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 984,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderDetailDto.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "RelativeToolTip": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:38:22.852Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthWind.Sales.Backend.DataContext.EFCore",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T03:15:07.622Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -37,21 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Orders [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PruebaDB/True/SqlTable/dbo.Orders.sql",
-              "ToolTip": "dbo.Orders [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-31T00:45:24.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.OrderDetails [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PruebaDB/True/SqlTable/dbo.OrderDetails.sql",
-              "ToolTip": "dbo.OrderDetails [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-31T00:45:21.626Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\introCA\\Northwind\\NorthWind.Sales.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.WebApi\\Program.cs",
+              "ToolTip": "C:\\introCA\\Northwind\\NorthWind.Sales.WebApi\\Program.cs",
+              "RelativeToolTip": "NorthWind.Sales.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:14:51.127Z",
               "EditorCaption": ""
             }
           ]
