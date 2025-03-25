@@ -10,6 +10,7 @@ C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwi
 C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
 C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.AssemblyInfo.cs
 C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.sourcelink.json
 C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwin.C64E68E2.Up2Date
 C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\Northwind.Sales.Backend.Presenters.dll
 C:\introCA\Northwind\Northwind.Sales.Backend.Presenters\obj\Debug\net9.0\refint\Northwind.Sales.Backend.Presenters.dll

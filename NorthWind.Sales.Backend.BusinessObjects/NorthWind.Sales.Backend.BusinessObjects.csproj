@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="NorthWind.DomainEvents" Version="1.0.0" />
+    <PackageReference Include="NorthWind.DomainLogs.Abstractions" Version="1.1.0" />
+    <PackageReference Include="NorthWind.DomainTransactiton" Version="1.0.0" />
+    <PackageReference Include="NorthWind.UserServices.Abstractions" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Northwind.Sales.Entities\Northwind.Sales.Entities.csproj" />
   </ItemGroup>
 

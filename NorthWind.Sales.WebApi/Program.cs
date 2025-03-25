@@ -1,5 +1,6 @@
 using NorthWind.Sales.Backend.DataContext.EFCore.Options;
 using NorthWind.Sales.Backend.IoC;
+using NorthWind.Sales.Backend.SmtpGateway.Options;
 using NorthWind.Sales.WebApi;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
 builder.Services.AddSalesServices(dbOptions =>
-        builder.Configuration.GetSection(DBOptions.SectionKey).Bind(dbOptions));
+        builder.Configuration.GetSection(DBOptions.SectionKey).Bind(dbOptions),
+        smtpOptions =>
+        {
+            builder.Configuration.GetSection(SmtpOptions.SectionKey).Bind(smtpOptions);
+        }
+        );
 
 
 // que es el Cors?
@@ -43,6 +49,16 @@ builder.Services.AddCors(options =>
 
 
 var app = builder.Build();
+
+// configura el middleware al pipeline que cachara las exepciones
+// un delegado con manejo de exepción, pero no queremos nada
+app.UseExceptionHandler(builder => { });
+
+// este middleware, la atrapa, a continuación, detecta quienes son los manejadores de exepción registrado
+// los del dependency container,
+
+// el middleware de manejador de execepción global, que sea el primero en registrar
+// porque cualquiere de los middlewares pudiera fallar
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

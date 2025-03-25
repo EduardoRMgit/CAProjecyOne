@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c351430b-2d02-4ccb-8304-cdefa7c56137")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Sales.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bff71fda21feda104535878c99c92334344ef7de")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Sales.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Sales.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

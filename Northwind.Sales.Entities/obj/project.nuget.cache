@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ylgJs/S10lI=",
+  "dgSpecHash": "qVPaulAS6LM=",
   "success": true,
   "projectFilePath": "C:\\introCA\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.domainvalidation\\1.1.0\\northwind.domainvalidation.1.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -22,6 +22,7 @@ C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWind.Sal
 C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWind.Sales.Frontend.IoC.AssemblyInfoInputs.cache
 C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWind.Sales.Frontend.IoC.AssemblyInfo.cs
 C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWind.Sales.Frontend.IoC.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWind.Sales.Frontend.IoC.sourcelink.json
 C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWin.0F1538D8.Up2Date
 C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\NorthWind.Sales.Frontend.IoC.dll
 C:\introCA\Northwind\NorthWind.Sales.Frontend.IoC\obj\Debug\net9.0\refint\NorthWind.Sales.Frontend.IoC.dll

@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "L6Qlk2O5F6o=",
+  "dgSpecHash": "A+1p+A67Mz0=",
   "success": true,
   "projectFilePath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
-    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.domainevents\\1.0.0\\northwind.domainevents.1.0.0.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.domainlogs.abstractions\\1.1.0\\northwind.domainlogs.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.domaintransactiton\\1.0.0\\northwind.domaintransactiton.1.0.0.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.domainvalidation\\1.1.0\\northwind.domainvalidation.1.1.0.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.userservices.abstractions\\1.0.0\\northwind.userservices.abstractions.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

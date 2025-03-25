@@ -12,6 +12,10 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore.Configurations
             builder.HasKey(d => new { d.OrderId, d.ProductId }); // => orderid + product ID
             builder.Property(d => d.UnitPrice)
                 .HasPrecision(8, 2);
+
+            builder.HasOne<Product>()
+                .WithMany()
+                .HasForeignKey(p => p.ProductId);
         }
     }
 }

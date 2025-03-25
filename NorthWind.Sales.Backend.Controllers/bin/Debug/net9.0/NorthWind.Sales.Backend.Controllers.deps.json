@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "NorthWind.Sales.Backend.Controllers/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3",
           "NorthWind.Sales.Backend.BusinessObjects": "1.0.0",
           "Northwind.Sales.Entities": "1.0.0"
         },
@@ -16,16 +16,57 @@
           "NorthWind.Sales.Backend.Controllers.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.1": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.3": {
         "runtime": {
           "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.124.61010"
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "NorthWind.DomainEvents/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/NorthWind.DomainEvents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NorthWind.DomainLogs.Abstractions/1.0.0": {
+        "runtime": {
+          "lib/net9.0/NorthWind.DomainLogs.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NorthWind.DomainTransactiton/1.0.0": {
+        "runtime": {
+          "lib/net9.0/NorthWind.DomainTransactions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NorthWind.DomainValidation/1.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/NorthWind.DomainValidation.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
           }
         }
       },
       "NorthWind.Sales.Backend.BusinessObjects/1.0.0": {
         "dependencies": {
+          "NorthWind.DomainEvents": "1.0.0",
+          "NorthWind.DomainLogs.Abstractions": "1.0.0",
+          "NorthWind.DomainTransactiton": "1.0.0",
           "Northwind.Sales.Entities": "1.0.0"
         },
         "runtime": {
@@ -36,6 +77,9 @@
         }
       },
       "Northwind.Sales.Entities/1.0.0": {
+        "dependencies": {
+          "NorthWind.DomainValidation": "1.1.0"
+        },
         "runtime": {
           "Northwind.Sales.Entities.dll": {
             "assemblyVersion": "1.0.0",
@@ -51,12 +95,40 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.1": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Tr74eP0oQ3AyC24ch17N8PuEkrPbD0JqIfENCYqmgKYNOmL8wQKzLJu3ObxTUDrjnn4rHoR1qKa37/eQyHmCDA==",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.1",
-      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+      "sha512": "sha512-TfaHPSe39NyL2wxkisRxXK7xvHGZYBZ+dy3r+mqGvnxKgAPdHkMu3QMQZI4pquP6W5FIQBqs8FJpWV8ffCgDqQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.3",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+    },
+    "NorthWind.DomainEvents/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-alNicj3W7Qicvd+srBn0Oz0Bh26KGxpksg0Rn287KR4n825CfRgISjNFfeSbMPrkdwVsWGnvKM+V/kJEuMhgSg==",
+      "path": "northwind.domainevents/1.0.0",
+      "hashPath": "northwind.domainevents.1.0.0.nupkg.sha512"
+    },
+    "NorthWind.DomainLogs.Abstractions/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eRVB2YGbYc928yfOOH+dtnuq7i5pHiLZld/wk3uNrNg2a9XxSLq6PRNZ8wIYEjOA64IaZQVd+QqP90+zg2xM2Q==",
+      "path": "northwind.domainlogs.abstractions/1.0.0",
+      "hashPath": "northwind.domainlogs.abstractions.1.0.0.nupkg.sha512"
+    },
+    "NorthWind.DomainTransactiton/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/IKc5EUSm/Np8TVN5TgZHsC84f8s0A79bpGQNWS564ABVWFUDhO+KbuHse5e8Fqy750U+i5eoLQ9hZDS77hHSA==",
+      "path": "northwind.domaintransactiton/1.0.0",
+      "hashPath": "northwind.domaintransactiton.1.0.0.nupkg.sha512"
+    },
+    "NorthWind.DomainValidation/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/n4H1B2T/RVmdYBFdjmTBS05WTr0ebB7XixuwYkEX0rfswTK9cLJOuWXpPjA1TgIDiG/bHWEdM+NHeC69yR+TQ==",
+      "path": "northwind.domainvalidation/1.1.0",
+      "hashPath": "northwind.domainvalidation.1.1.0.nupkg.sha512"
     },
     "NorthWind.Sales.Backend.BusinessObjects/1.0.0": {
       "type": "project",

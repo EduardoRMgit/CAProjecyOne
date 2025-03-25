@@ -17,7 +17,7 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.1")
+                .HasAnnotation("ProductVersion", "9.0.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -67,7 +67,53 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CustomerId");
+
                     b.ToTable("Orders");
+                });
+
+            modelBuilder.Entity("Northwind.Sales.Backend.Repositories.Entities.Customer", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasMaxLength(5)
+                        .HasColumnType("nchar(5)")
+                        .IsFixedLength();
+
+                    b.Property<decimal>("CurrentBalance")
+                        .HasPrecision(8, 2)
+                        .HasColumnType("decimal(8,2)");
+
+                    b.Property<string>("MyProperty")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Customers");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "ALFKI",
+                            CurrentBalance = 0m,
+                            Name = "Alfreds Fitterkiste"
+                        },
+                        new
+                        {
+                            Id = "ANATR",
+                            CurrentBalance = 0m,
+                            Name = "Ana Trujillo"
+                        },
+                        new
+                        {
+                            Id = "ANTON",
+                            CurrentBalance = 100m,
+                            Name = "Antoni Moreno"
+                        });
                 });
 
             modelBuilder.Entity("Northwind.Sales.Backend.Repositories.Entities.OrderDetail", b =>
@@ -87,7 +133,80 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore.Migrations
 
                     b.HasKey("OrderId", "ProductId");
 
+                    b.HasIndex("ProductId");
+
                     b.ToTable("OrderDetails");
+                });
+
+            modelBuilder.Entity("Northwind.Sales.Backend.Repositories.Entities.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)");
+
+                    b.Property<double>("UnitPrice")
+                        .HasPrecision(8, 2)
+                        .HasColumnType("float(8)");
+
+                    b.Property<short>("UnitsInStock")
+                        .HasColumnType("smallint");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Chai",
+                            UnitPrice = 35.0,
+                            UnitsInStock = (short)20
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Chang",
+                            UnitPrice = 55.0,
+                            UnitsInStock = (short)0
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Aniseed Syrup",
+                            UnitPrice = 65.0,
+                            UnitsInStock = (short)20
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Name = "Chef Anton's",
+                            UnitPrice = 75.0,
+                            UnitsInStock = (short)40
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Name = "Gumbo Mix",
+                            UnitPrice = 50.0,
+                            UnitsInStock = (short)20
+                        });
+                });
+
+            modelBuilder.Entity("NorthWind.Sales.Backend.BusinessObjects.Entities.Order", b =>
+                {
+                    b.HasOne("Northwind.Sales.Backend.Repositories.Entities.Customer", null)
+                        .WithMany()
+                        .HasForeignKey("CustomerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Northwind.Sales.Backend.Repositories.Entities.OrderDetail", b =>
@@ -95,6 +214,12 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore.Migrations
                     b.HasOne("NorthWind.Sales.Backend.BusinessObjects.Entities.Order", "Order")
                         .WithMany()
                         .HasForeignKey("OrderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Northwind.Sales.Backend.Repositories.Entities.Product", null)
+                        .WithMany()
+                        .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

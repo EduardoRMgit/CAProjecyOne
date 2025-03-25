@@ -7,8 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Northwind.Sales.Entities/1.0.0": {
+        "dependencies": {
+          "NorthWind.DomainValidation": "1.1.0"
+        },
         "runtime": {
           "Northwind.Sales.Entities.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "NorthWind.DomainValidation/1.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2"
+        },
+        "runtime": {
+          "lib/net9.0/NorthWind.DomainValidation.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
         }
       }
     }
@@ -18,6 +40,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MNe7GSTBf3jQx5vYrXF0NZvn6l7hUKF6J54ENfAgCO8y6xjN1XUmKKWG464LP2ye6QqDiA1dkaWEZBYnhoZzjg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+    },
+    "NorthWind.DomainValidation/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/n4H1B2T/RVmdYBFdjmTBS05WTr0ebB7XixuwYkEX0rfswTK9cLJOuWXpPjA1TgIDiG/bHWEdM+NHeC69yR+TQ==",
+      "path": "northwind.domainvalidation/1.1.0",
+      "hashPath": "northwind.domainvalidation.1.1.0.nupkg.sha512"
     }
   }
 }

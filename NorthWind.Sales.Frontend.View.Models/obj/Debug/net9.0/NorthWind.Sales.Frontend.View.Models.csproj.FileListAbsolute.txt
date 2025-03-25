@@ -10,6 +10,7 @@ C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\North
 C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.AssemblyInfoInputs.cache
 C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.AssemblyInfo.cs
 C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.sourcelink.json
 C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWin.83EB7073.Up2Date
 C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\NorthWind.Sales.Frontend.View.Models.dll
 C:\introCA\Northwind\NorthWind.Sales.Frontend.View.Models\obj\Debug\net9.0\refint\NorthWind.Sales.Frontend.View.Models.dll

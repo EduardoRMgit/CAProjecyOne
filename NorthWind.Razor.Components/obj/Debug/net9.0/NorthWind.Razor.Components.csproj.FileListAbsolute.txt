@@ -8,6 +8,7 @@ C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\NorthWind.Razor
 C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\NorthWind.Razor.Components.AssemblyInfoInputs.cache
 C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\NorthWind.Razor.Components.AssemblyInfo.cs
 C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\NorthWind.Razor.Components.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\NorthWind.Razor.Components.sourcelink.json
 C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\scopedcss\Exceptions\ExceptionDisplay.razor.rz.scp.css
 C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\scopedcss\Layouts\NavMenuLayout.razor.rz.scp.css
 C:\introCA\Northwind\NorthWind.Razor.Components\obj\Debug\net9.0\scopedcss\NavBars\NavMenu.razor.rz.scp.css

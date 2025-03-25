@@ -10,6 +10,7 @@ C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\No
 C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.AssemblyInfoInputs.cache
 C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.AssemblyInfo.cs
 C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.sourcelink.json
 C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWin.FAE2B56E.Up2Date
 C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\NorthWind.Sales.Frontend.WebApiGateways.dll
 C:\introCA\Northwind\NorthWind.Sales.Frontend.WebApiGateways\obj\Debug\net9.0\refint\NorthWind.Sales.Frontend.WebApiGateways.dll

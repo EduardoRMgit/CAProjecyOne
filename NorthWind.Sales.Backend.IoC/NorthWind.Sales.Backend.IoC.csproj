@@ -7,14 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.3" />
+    <PackageReference Include="NorthWind.UserServices" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\NorthWind.Sales.Backend.Controllers\NorthWind.Sales.Backend.Controllers.csproj" />
     <ProjectReference Include="..\NorthWind.Sales.Backend.DataContext.EFCore\NorthWind.Sales.Backend.DataContext.EFCore.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.ExceptionHandlers\NorthWind.Sales.Backend.ExceptionHandlers.csproj" />
     <ProjectReference Include="..\Northwind.Sales.Backend.Presenters\Northwind.Sales.Backend.Presenters.csproj" />
     <ProjectReference Include="..\Northwind.Sales.Backend.Repositories\Northwind.Sales.Backend.Repositories.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.SmtpGateway\NorthWind.Sales.Backend.SmtpGateway.csproj" />
     <ProjectReference Include="..\NorthWind.Sales.Backend.UseCases\NorthWind.Sales.Backend.UseCases.csproj" />
   </ItemGroup>
 

@@ -22,12 +22,16 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore.DataContext
         {
             modelBuilder.ApplyConfigurationsFromAssembly(
                 Assembly.GetExecutingAssembly());
-
         }
 
         // tablas para tiempo de diseño => no se usa en tiempo de ejecución, pero lo quiero que para 
         //que con este contexto, pueda crear la base de datos
         public DbSet<Order> Orders { get; set; }
         public DbSet<Northwind.Sales.Backend.Repositories.Entities.OrderDetail> OrderDetails { get; set; }
+
+        //aGREGAR LOS DBSETS
+        // northwind context => creación y modificación de la esquema de la base de datos
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }

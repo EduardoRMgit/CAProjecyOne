@@ -27,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,6 +55,24 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "NorthWind.DomainEvents": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NorthWind.DomainLogs.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "NorthWind.DomainTransactiton": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NorthWind.UserServices.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -97,6 +116,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,7 +150,7 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -176,6 +196,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -206,13 +227,98 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
+            },
+            "NorthWind.DomainLogs.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NorthWind.DomainTransaction.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.ExceptionHandlers\\NorthWind.Sales.Backend.ExceptionHandlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.ExceptionHandlers\\NorthWind.Sales.Backend.ExceptionHandlers.csproj",
+        "projectName": "NorthWind.Sales.Backend.ExceptionHandlers",
+        "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.ExceptionHandlers\\NorthWind.Sales.Backend.ExceptionHandlers.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.ExceptionHandlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "NorthWind.ExceptionsHandlers": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -258,6 +364,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -270,11 +377,17 @@
               "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj": {
                 "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj"
               },
+              "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.ExceptionHandlers\\NorthWind.Sales.Backend.ExceptionHandlers.csproj": {
+                "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.ExceptionHandlers\\NorthWind.Sales.Backend.ExceptionHandlers.csproj"
+              },
               "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Presenters\\Northwind.Sales.Backend.Presenters.csproj": {
                 "projectPath": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Presenters\\Northwind.Sales.Backend.Presenters.csproj"
               },
               "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj": {
                 "projectPath": "C:\\introCA\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj"
+              },
+              "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.SmtpGateway\\NorthWind.Sales.Backend.SmtpGateway.csproj": {
+                "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.SmtpGateway\\NorthWind.Sales.Backend.SmtpGateway.csproj"
               },
               "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
                 "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj"
@@ -300,7 +413,11 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
+            },
+            "NorthWind.UserServices": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -346,6 +463,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -376,7 +494,7 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -422,6 +540,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -452,7 +571,88 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.SmtpGateway\\NorthWind.Sales.Backend.SmtpGateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.SmtpGateway\\NorthWind.Sales.Backend.SmtpGateway.csproj",
+        "projectName": "NorthWind.Sales.Backend.SmtpGateway",
+        "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.SmtpGateway\\NorthWind.Sales.Backend.SmtpGateway.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.SmtpGateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\introCA\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -498,6 +698,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -528,11 +729,11 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -578,6 +779,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -601,6 +803,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "NorthWind.DomainValidation": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -644,6 +852,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\introCA\\NorthWindPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -674,7 +883,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [

@@ -6,10 +6,13 @@ C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\bin\Debug\net9.0\Northwind
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\bin\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.pdb
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.csproj.AssemblyReference.cache
+C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.Resources.CreateOrderMessages.resources
+C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.csproj.GenerateResource.cache
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.GeneratedMSBuildEditorConfig.editorconfig
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.AssemblyInfoInputs.cache
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.AssemblyInfo.cs
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.sourcelink.json
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWin.6E892F3A.Up2Date
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\NorthWind.Sales.Backend.UseCases.dll
 C:\introCA\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net9.0\refint\NorthWind.Sales.Backend.UseCases.dll

@@ -8,6 +8,7 @@ C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\No
 C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfoInputs.cache
 C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfo.cs
 C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.sourcelink.json
 C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\NorthWin.430E2971.Up2Date
 C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\NorthWind.Sales.Backend.BusinessObjects.dll
 C:\introCA\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net9.0\refint\NorthWind.Sales.Backend.BusinessObjects.dll

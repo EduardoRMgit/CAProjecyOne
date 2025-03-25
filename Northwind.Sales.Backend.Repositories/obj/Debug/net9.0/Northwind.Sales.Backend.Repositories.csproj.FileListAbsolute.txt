@@ -10,6 +10,7 @@ C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\North
 C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.AssemblyInfoInputs.cache
 C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.AssemblyInfo.cs
 C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.sourcelink.json
 C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwin.B5CEAD00.Up2Date
 C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\Northwind.Sales.Backend.Repositories.dll
 C:\introCA\Northwind\Northwind.Sales.Backend.Repositories\obj\Debug\net9.0\refint\Northwind.Sales.Backend.Repositories.dll

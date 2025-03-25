@@ -1,10 +1,14 @@
 C:\introCA\Northwind\Northwind.Sales.Entities\bin\Debug\net9.0\Northwind.Sales.Entities.deps.json
 C:\introCA\Northwind\Northwind.Sales.Entities\bin\Debug\net9.0\Northwind.Sales.Entities.dll
 C:\introCA\Northwind\Northwind.Sales.Entities\bin\Debug\net9.0\Northwind.Sales.Entities.pdb
+C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.csproj.AssemblyReference.cache
+C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.Resoueces.CreateOrderMessages.resources
+C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.csproj.GenerateResource.cache
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.AssemblyInfoInputs.cache
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.AssemblyInfo.cs
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.csproj.CoreCompileInputs.cache
+C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.sourcelink.json
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.dll
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\refint\Northwind.Sales.Entities.dll
 C:\introCA\Northwind\Northwind.Sales.Entities\obj\Debug\net9.0\Northwind.Sales.Entities.pdb

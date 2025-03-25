@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Northwind.Sales.Backend.Repositories.Interfaces;
+using NorthWind.DomainLogs.EntityFrameworkCore;
 using NorthWind.Sales.Backend.DataContext.EFCore.DataContexts;
 using NorthWind.Sales.Backend.DataContext.EFCore.DataSources;
 using NorthWind.Sales.Backend.DataContext.EFCore.Options;
@@ -22,8 +23,13 @@ namespace NorthWind.Sales.Backend.DataContext.EFCore
             configureDBOptions(Options);
             services.AddDbContext<NorthWindSalesContext>(options =>
                                 options.UseSqlServer(Options.ConnectionString));
-            services.AddScoped<INorthWindSalesCommandsDataSource, 
-                NorthWindSalesCommandsDataSource>();
+            services.AddScoped<ICreateOrderRepositoryDataSource,
+                CreateOrderRepositoryDataSoruce>();
+            services.AddScoped<INorthWindSalesQueriesDataSource,
+                NorthWindSalesQueriesDataSource>();
+
+            services.AddLoggerServices(options =>
+                options.UseSqlServer(Options.DomainLogsConnectionString));
 
             return services;
         }

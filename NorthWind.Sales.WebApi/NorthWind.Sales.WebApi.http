@@ -12,8 +12,23 @@ Content-Type: application/json
     "OrderDetailDtos": [
         {
             "productId": 1,
-            "unitPrice": 17,
-            "quantity": 5
+            "unitPrice": 35,
+            "quantity": 10
+        },
+        {
+            "productId": 3,
+            "unitPrice": 35,
+            "quantity": 20
+        },
+        {
+            "productId": 4,
+            "unitPrice": 35,
+            "quantity": 1
+        },
+        {
+            "productId": 5,
+            "unitPrice": 35,
+            "quantity": 1
         }
     ]
 }

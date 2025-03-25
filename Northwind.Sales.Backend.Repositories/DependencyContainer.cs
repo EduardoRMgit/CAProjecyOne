@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Northwind.Sales.Backend.Repositories.Repositories.cs;
+using NorthWind.Sales.Backend.BusinessObjects.Interfaces.CreateOrder;
 
 namespace Northwind.Sales.Backend.Repositories
 {
@@ -8,7 +9,9 @@ namespace Northwind.Sales.Backend.Repositories
         public static IServiceCollection AddRepositories(
             this IServiceCollection services)
         {
-            services.AddScoped<ICommandsRepository, CommandRepository>();
+            services.AddScoped<ICreateOrderRepository, CreateOrderRepository>();
+            services.AddScoped<IQueriesRepository, QueriesRepository>();
+
             return services;
         }
     }
